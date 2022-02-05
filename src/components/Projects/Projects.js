@@ -4,8 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import leaf from "../../Assets/Projects/1.png";
-import emotion from "../../Assets/Projects/2.jpg";
-import editor from "../../Assets/Projects/3.png";
+import emotion from "../../Assets/Projects/1.jpg";
+import editor from "../../Assets/Projects/2.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
